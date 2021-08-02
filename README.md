@@ -39,3 +39,6 @@ To convince investors that a bike-sharing program in Des Moines is a solid busin
 
 
 ![Slide7](https://user-images.githubusercontent.com/82338072/127789299-3c44370f-4432-40af-853b-b81cc697aaf5.PNG)
+
+## Summary
+From the analysis, the males were a major consumer of the bike sharing service and and people rather subscribed to the service. Also the service was a popular hit for workers as the usage correlated with the opening and closing hours of the work. An analysis that shows landmarks around the city will also shed light on the usage of the service
